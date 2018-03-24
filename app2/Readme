@@ -1,0 +1,4 @@
+It uses repository architecture. It can also be event driven. The user enters the item type, quantity and price. The system stores them 
+in the database.It also calculate the vat and the total price and displays the values by using message box. 
+
+The database file i used is found in this folder.
