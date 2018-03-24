@@ -1,0 +1,19 @@
+It uses pipe and filter architecture 
+the result window is different for user that score greater than 5 and less.
+The answers for the questions 
+1.yellow 
+2.tomorrow
+3.nah
+4.cold
+5. >24
+6.no
+7. both answer possible
+
+The registered username and passwords are fixed so use one of these
+
+username      PW
+applicant1    abcd1
+applicant2    abcd2
+applicant3    abcd3
+
+the database I created is found in this folder.
