@@ -1,4 +1,4 @@
-It uses pipe and filter architecture 
+It uses pipe and filter architecture. The user first logs in then the system provides questions to be answered.
 the result window is different for user that score greater than 5 and less.
 The answers for the questions 
 1.yellow 
